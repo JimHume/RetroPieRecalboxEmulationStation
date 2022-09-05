@@ -10,5 +10,5 @@
 
 [Dragonrise USB controller / N64 emu details](dragonrise-recalbox.md)
 
-Commander Keen / Commander Genius / cgenius
+[Commander Keen / Commander Genius / cgenius](commanderkeen.md)
 
