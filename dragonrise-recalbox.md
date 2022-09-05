@@ -11,7 +11,7 @@ To fix the controller not working as expected:
   
 The sample section from mupen64.cfg is:
 ```
-  [Input-SDL-Control1]
+[Input-SDL-Control1]
 
 # Mupen64Plus SDL Input Plugin config parameter version number.  Please don't change this version number.
 version = 2
@@ -53,7 +53,3 @@ Rumblepak switch = "key(114)"
 # Analog axis configuration mappings
 X Axis = "axis(0-,0+)"
 Y Axis = "axis(1-,1+)"
-
-
- 
-  
