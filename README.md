@@ -4,7 +4,7 @@
 
 [General info for images that won't load ("Start4.elf is not compatible" / "This board requires newer software")](generalinfo.md)
 
-Images that won't update (https / certificate issues)
+[Images that won't update (https / certificate issues)](aptupdate.md)
 
 Nespi Case script
 
