@@ -2,12 +2,12 @@ Note that when performing an apt update, the ini file will be overwritten for th
 
 To fix the controller not working as expected:
 1. Edit the recalbox config file, adding `n64.configfile=dummy` or something nonexistent
-  - This can be accomplished either through the "recalbox manager" (http://<pi ip address>/) or via text editor.
-  - If doing this via text editor, the file should be located at `/recalbox/share/system/recalbox.conf`
+    - This can be accomplished either through the "recalbox manager" (`http://<pi ip address>/`) or via text editor.
+    - If doing this via text editor, the file should be located at `/recalbox/share/system/recalbox.conf`
 2. Copy/paste the [DragonRise ini file](DragonRise.ini) into `/recalbox/share/system/configs/mupen64` renaming it to `InputAutoCfg.ini` 
 3. Edit the `/recalbox/share/system/configs/mupen64/mupen64.cfg` file in a text editor (this part sucks). 
-  - Find the `[Input-SDL-ControlX]` section(s) and edit them to match the `DragonRise.ini` file.
-  - Rinse/repeat for all controllers if desired
+    - Find the `[Input-SDL-ControlX]` section(s) and edit them to match the `DragonRise.ini` file.
+    - Rinse/repeat for all controllers if desired
   
 The sample section from mupen64.cfg is:
 ```
