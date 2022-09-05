@@ -8,7 +8,7 @@
 
 [Nespi Case script](nespi.md)
 
-Dragonrise USB controller / N64 emu details
+[Dragonrise USB controller / N64 emu details](dragonrise-recalbox.md)
 
 Commander Keen / Commander Genius / cgenius
 
