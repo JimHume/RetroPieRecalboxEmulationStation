@@ -6,7 +6,7 @@
 
 [Images that won't update (https / certificate issues)](aptupdate.md)
 
-Nespi Case script
+[Nespi Case script](nespi.md)
 
 Dragonrise USB controller / N64 emu details
 
